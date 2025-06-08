@@ -81,7 +81,7 @@
     },
     {
       "parameters": {
-        "sendTo": "shivanshg665@gmail.com",
+        "sendTo": "type email to send to",
         "subject": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Subject', `copy this - Hot, Cold, or Stormy?`, 'string') }}",
         "emailType": "text",
         "message": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Message', `Hey there!\nHere’s your quick weather update for today:\n\n🌡️ Temperature: 27°C (feels like 30°C)\n🌤️ Condition: Mostly sunny with light clouds\n💨 Wind: 12 km/h NW\n☔ Chance of Rain: 10%\n\nIt’s a good day to step out—just don’t forget your shades! 😎\nMore detailed updates coming soon.\n\nStay weather-wise,\nYour AI Weather Assistant`, 'string') }}",

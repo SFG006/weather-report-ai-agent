@@ -72,7 +72,7 @@ This repository contains an **AI-powered weather report agent** built using **n8
 
 ---
 
-## 📩 Author
+## 🧑‍💻 Author
 
-SFG006
+Made by SFG006
 

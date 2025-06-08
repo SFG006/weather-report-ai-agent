@@ -14,6 +14,10 @@ This repository contains an **AI-powered weather report agent** built using **n8
 
 ---
 
+## 📸 Screenshots
+
+
+
 ## 🧠 How It Works
 
 1. **Chat Trigger** activates the workflow.

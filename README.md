@@ -74,6 +74,5 @@ This repository contains an **AI-powered weather report agent** built using **n8
 
 ## 📩 Author
 
-SFG 
-[shivanshg665@gmail.com](mailto:shivanshg665@gmail.com)
+SFG006
 

@@ -16,6 +16,7 @@ This repository contains an **AI-powered weather report agent** built using **n8
 
 ## 📸 Screenshots
 
+![Screenshot 2025-06-08 133950](https://github.com/user-attachments/assets/3d88a014-07e3-4239-aac8-7aebf994eee2)
 
 
 ## 🧠 How It Works
